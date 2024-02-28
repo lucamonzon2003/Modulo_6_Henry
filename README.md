@@ -10,5 +10,5 @@ Modelos de regresiòn, clasificaciòn, supervisados y no supervisados.
 Concepto de performance.
 evaluaciòn de modelos.
 Time Series.
-## Deep Learning
+## * Deep Learning
 Concepto de redes neuronales.
